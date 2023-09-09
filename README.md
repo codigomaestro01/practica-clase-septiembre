@@ -1,2 +1,2 @@
 # practica-clase-septiembre
- Practicando conflictos
+ Hola mundo
